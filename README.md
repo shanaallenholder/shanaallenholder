@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 My names Shana
 
-<!--
-**shanaallenholder/shanaallenholder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am changing careers and moving into software engineering.
 
-Here are some ideas to get you started:
+Im currently studying with Coding Black Females on a software enginerring intensive bootcamp/course. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about my intrerest in the future of tech and i'm excited to get stuck in and to learn as much as possible from self study and learing from others. 
+
+- 🔭  I'm a beginner in tech!
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on any projects that involve Java/JavaScript and any other beneficial languages that I cannlearn alongside my course.
+- 🤔 I’m looking for help with Anything and Everything to advance my knowledge
+- 💬 Ask me about food if you like, I was a chef
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have an infinite love for sushi!!! YUM
+
