@@ -1,6 +1,6 @@
 ### Hi there 👋 My names Shana
 
-I am changing careers and moving into software engineering.
+I am changing careers and moving into software development.
 
 Im currently studying with Coding Black Females on a software engineering intensive bootcamp/course. 
 
