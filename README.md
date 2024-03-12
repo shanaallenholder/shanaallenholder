@@ -1,17 +1,15 @@
 ### Hi there 👋 My names Shana
 
-I am changing careers and moving into software development.
+I am transitioning into the dynamic world of software development, I'm embarking on my journey to becoming a Junior Software Developer and have just finished a intensive coding bootcamp with Coding Black Females.
 
-Im currently studying with Coding Black Females on a software engineering intensive bootcamp/course. 
+I'm passionate about my interests in technology, I am captivated by the transformative impact technology has on our daily lives, and the way in which it has enhanced everyday efficiency and access to things in which we may not have had years ago. The innovation and continuous betterment of technologies that are availble to us, makes me extremely excited for my journey. Technology has become the cornerstone of modern society and I want to be a part of developing tomorrows technologies by enhancing the ones we have today! 
 
-I'm passionate about my interests in engineering technology and the way in which our lives are being shaped by tech.  
-I'm excited to get stuck in and to learn as much as possible from self study and learning from others. 
+I am eager to immerse myself into this rapidly changing field, embracing both self-study and collaborative knowledge-sharing/work. I have an insatiable appetite for learing and continuous growth, which means I am always ready to absorb insights, tackle challeneges and seek out new interesting topics that will fuel my drive to better my knowledge.
 
-- 🔭 I'm a beginner in tech!
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on any projects that involve Java/JavaScript and any other beneficial languages that I can learn alongside my course.
-- 🤔 I’m looking for help with Anything and Everything to advance my knowledge as a junior developer.
-- 💬 
+- 🔭 As a tech novice, I'm eager to explore and expand my skills.
+- 🌱 Having recently completed my Entry To Tech Bootcamp, my foundation lies in Java, yet I am curious and excited to delve into new languages and techologies to continue my learining streak! 
+- 👯 I’m open to collaboration on any projects involving Java and any other beneficial languages that offer opportunities for growth.
+- 🤔 I’m seeking mentorship and collaboration (but also happy to mentor any newbies in the game, who may need another fellow bootcamper to help you along the way) which in turn will also help me to cement my knowlodge & accelerate my tech journey as a junior developer.
+- 💬 Lets discuss all things that are...JAVA or SUSHI!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have an infinite love for sushi!!! YUM
 
